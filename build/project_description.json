@@ -1,7 +1,7 @@
 {
     "version":            "1.1",
     "project_name":       "LAB4_MQTT_TCP",
-    "project_version":    "1",
+    "project_version":    "f244631-dirty",
     "project_path":       "D:/Phan_Thanh_Tuan/UIT-Online/HK6/TH_TKHTNKD/LAB4_MQTT_TCP",
     "idf_path":           "E:/DATA/Espressif/frameworks/esp-idf-v5.2",
     "build_dir":          "D:/Phan_Thanh_Tuan/UIT-Online/HK6/TH_TKHTNKD/LAB4_MQTT_TCP/build",
